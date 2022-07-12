@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>561.png</filename>
+	<path>/my-project-name/561.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>65</width>
+		<height>31</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>6</ymin>
+			<xmax>32</xmax>
+			<ymax>24</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>6</ymin>
+			<xmax>41</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+</annotation>

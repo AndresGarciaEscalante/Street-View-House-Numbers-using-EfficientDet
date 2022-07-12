@@ -1,0 +1,37 @@
+<annotation>
+	<folder>svhn</folder>
+	<filename>17.png</filename>
+	<path>/svhn/17.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>71</width>
+		<height>31</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>4</ymin>
+			<xmax>36</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>4</ymin>
+			<xmax>48</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+</annotation>
