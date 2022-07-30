@@ -31,7 +31,7 @@ The project was built using:
 # 2. Workspace Structure
 The folder structure of the project can be seen as follows:
 
-
+```
 ├── Model_Inference             # Test the trained model and concatenation using the testset 
 │   ├── Images                  # Testset images from StreetNumber Dataset
 │   ├── Prediction              # Testset images with the predictions from EfficientDet D0
@@ -49,7 +49,7 @@ The folder structure of the project can be seen as follows:
 │   ├── Tutorial.ipynb          # Jupyer notebook that creates the label map, and tfrecods
 ├── models                      # Tensorflow Object Detection API folder
 └── ...
-
+```
 # 4. Experiments
 ## 4.1. Trainig Phase
 During the training phase, two models standout and the metrics evaluated are **mAP, recall, loss**. This can be shown in the following images:
@@ -84,11 +84,10 @@ The next step to be evaluated is the **precision, recall, f1-score** of the pred
 | F1-Score   |    0.78    |    0.65    |      0.68      |
 
 ### 5. Images of the Solution
-In this section we provide several example of the system working.
+In this section we provide several example of the system working. The output of the system is written in the top left corner on the image.
 
-:-------------------------:|:-------------------------:
-![](Images/585.PNG)  |  ![](Images/618.PNG)
-![](Images/534.PNG)  |  ![](Images/552.PNG)
+![](Images/585.png)  ![](Images/618.png) ![](Images/509.png)
+![](Images/534.png)  ![](Images/552.png)
 
 <!-- LICENSE -->
 ## License
